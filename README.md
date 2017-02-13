@@ -14,6 +14,7 @@ bind /N/home
 bind /N/soft
 bind /N/dc2
 ```
+> TODO fix this
 
 ## Running
 
